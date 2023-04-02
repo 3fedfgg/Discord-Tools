@@ -1,9 +1,9 @@
 # Discord-Tools
 A few Discord tools I made lol
 
-requires
-requests
-colorama
+requires,
+requests,
+colorama,
 art
 
 It includes 
