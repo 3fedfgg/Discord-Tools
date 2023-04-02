@@ -7,6 +7,6 @@ colorama
 art
 
 It includes 
-Webhook Spammer
-Delete DM
+Webhook Spammer,
+Delete DM,
 Discord Counter Thing (idk what to call it)
